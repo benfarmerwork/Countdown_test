@@ -1,0 +1,9 @@
+c:\users\kathy\documents\visual studio 2015\Projects\CountDownTimer\CountDownTimer\bin\Debug\CountDownTimer.exe.config
+c:\users\kathy\documents\visual studio 2015\Projects\CountDownTimer\CountDownTimer\bin\Debug\CountDownTimer.exe
+c:\users\kathy\documents\visual studio 2015\Projects\CountDownTimer\CountDownTimer\bin\Debug\CountDownTimer.pdb
+c:\users\kathy\documents\visual studio 2015\Projects\CountDownTimer\CountDownTimer\obj\Debug\CountDownTimer.csprojResolveAssemblyReference.cache
+c:\users\kathy\documents\visual studio 2015\Projects\CountDownTimer\CountDownTimer\obj\Debug\CountDownTimer.Form1.resources
+c:\users\kathy\documents\visual studio 2015\Projects\CountDownTimer\CountDownTimer\obj\Debug\CountDownTimer.Properties.Resources.resources
+c:\users\kathy\documents\visual studio 2015\Projects\CountDownTimer\CountDownTimer\obj\Debug\CountDownTimer.csproj.GenerateResource.Cache
+c:\users\kathy\documents\visual studio 2015\Projects\CountDownTimer\CountDownTimer\obj\Debug\CountDownTimer.exe
+c:\users\kathy\documents\visual studio 2015\Projects\CountDownTimer\CountDownTimer\obj\Debug\CountDownTimer.pdb
